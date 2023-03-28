@@ -38,7 +38,7 @@ use dmstr\widgets\Alert;
 
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-        <b>By <a href="https://github.com/helderjosue">Tacilima Chissequere</a></b> 2.0
+        <b>By <a href="https://github.com/helderjosue">Hélder Josué</a></b> 2.0
     </div>
     &copy; <?= date('Y') ?>. Todos Direitos Reservados | <strong >SIS-CONSULTAS</strong>
 </footer>

@@ -13,10 +13,11 @@ This application is in its initial phase and currently has the following feature
 
 
        1. Register Patients
-       2. Register Doctors
-       3. Register Medical Areas
-       4. Register Types of Doctors
-       5. Dashboard
+       2. Schedule Consultations
+       3. Register Doctors
+       4. Register Medical Areas
+       5. Register Types of Doctors
+       6. Dashboard
        
 This application was built in PHP using Yii Framework and follows the directory structure bellow:
 
